@@ -90,3 +90,40 @@ footer {
   color: #9ca3af;
   font-size: 14px;
 }
+@media (max-width: 768px) {
+
+  .hero h1 {
+    font-size: 28px;
+  }
+
+  .hero p {
+    font-size: 16px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  .buttons {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .container {
+    padding: 30px 15px;
+  }
+
+  ul li {
+    font-size: 16px;
+  }
+
+  .phone {
+    font-size: 20px;
+  }
+}
