@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Центр помощи при ДТП</title>
+  <meta name="description" content="Помощь при ДТП. Аварийный комиссар, споры со страховой, независимая экспертиза.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="container">
+    <h1>Центр помощи при ДТП</h1>
+    <p>Помогаем водителям после аварий. Спокойно, по-человечески и до результата.</p>
+
+    <div class="buttons">
+      <a href="tel:+79381251588" class="btn primary">Позвонить</a>
+      <a href="https://wa.me/79381251588" class="btn whatsapp">WhatsApp</a>
+      <a href="https://t.me/USERNAME" class="btn telegram">Telegram</a>
+    </div>
+  </div>
+</header>
+
+<section class="services">
+  <div class="container">
+    <h2>Чем мы можем помочь</h2>
+
+    <ul>
+      <li>🚓 Аварийный комиссар</li>
+      <li>📄 Работа со страховыми компаниями</li>
+      <li>🔍 Независимая экспертиза</li>
+      <li>⚖️ Разбор ДТП и защита интересов</li>
+      <li>💰 Выкуп страхового дела</li>
+    </ul>
+  </div>
+</section>
+
+<section class="cases">
+  <div class="container">
+    <h2>Реальные случаи</h2>
+
+    <p><strong>Hyundai Elantra</strong> — сильные повреждения, ущерб выше лимита ОСАГО.  
+    Клиент получил выплату свыше <strong>400 000 ₽</strong>.</p>
+
+    <p><strong>Audi A6</strong> — владельцы согласились на лимит 400 000 ₽ и подписали документы.  
+    После этого увеличить выплату уже было невозможно.</p>
+
+    <p class="warning">⚠️ Важно обращаться за консультацией <strong>до подписания документов</strong>.</p>
+  </div>
+</section>
+
+<section class="contact">
+  <div class="container">
+    <h2>Связаться с нами</h2>
+
+    <p class="phone">📞 +7 938 125 15 88</p>
+    <p>Мы на связи в Telegram и WhatsApp</p>
+
+    <div class="buttons">
+      <a href="tel:+79381251588" class="btn primary">Позвонить сейчас</a>
+      <a href="https://wa.me/79381251588" class="btn whatsapp">WhatsApp</a>
+      <a href="https://t.me/USERNAME" class="btn telegram">Telegram</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>© Центр помощи при ДТП</p>
+</footer>
+
+</body>
+</html>
